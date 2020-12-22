@@ -1,3 +1,3 @@
 # non-root-users-to-use-wireshark
 
-G
+Give wireshark access without root.
